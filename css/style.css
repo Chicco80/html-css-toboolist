@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #cecece;
+    background-color: white;
     
 }
 
@@ -14,6 +14,7 @@ header{
     width: 100%;
     background-color: white;
 }
+
 h1{
     display: inline-block;
     vertical-align: top;
@@ -29,6 +30,7 @@ main{
     padding: 10px;
     border-bottom: 2px solid lightgrey;
 }
+
 button{
     width: 90px;
     height: 30px;
