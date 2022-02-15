@@ -58,6 +58,13 @@ h2{
     border-radius: 50%;
     padding: 2px;
 }
+.check-no{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
+
 .bold{
     font-weight: bolder;
     font-size: 20px;;
@@ -68,4 +75,27 @@ h2{
     border-radius: 10px;
     padding: 5px;
     color:white;
+}
+.goal{
+    background-color: blueviolet;
+    border: 1px border blueviolet;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
+}
+
+.recruiting{
+    background-color: green;
+    border: 1px border green;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
+}
+.mobile{
+    background-color: orange;
+    border: 1px border orange;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
+}
 }
