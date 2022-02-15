@@ -98,4 +98,18 @@ h2{
     padding: 5px;
     color:white;
 }
+.webpage{
+    background-color: lightcoral;
+    border: 1px border lightcoral;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
+}
+
+.sales{
+    background-color: lightgreen;
+    border: 1px border lightgreen;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
 }
