@@ -4,6 +4,38 @@
     padding:0;
     box-sizing: border-box;
 }
-header{
+
+body{
+    background-color: #cecece;
     
+}
+
+header{
+    width: 100%;
+    background-color: white;
+}
+h1{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 40px;
+}
+/* fine header */
+
+main{
+    background-color: white;
+    margin: 30px auto;
+    width: 80%;
+    height:50px ;
+    padding: 10px;
+    border-bottom: 2px solid lightgrey;
+}
+button{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #cecece;
+}
+.blue{
+    background-color: rgb(165, 172, 241);
 }
